@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-16",
+  "context": "Administrator browser session impersonating the existing hosting account; not an independent-account authorization test",
+  "backup_policy": "Client page says no policy assigned and no backups being made",
+  "filesystem_backup": "Manual creation, restore and both archive downloads succeeded; restoration created a before-restore safety archive",
+  "ssl_preflight": "Normal issuance attempted once with Force issue off; rejected because no public A or AAAA record; diagnostic included a suggested address and correlation ID",
+  "dns_health": "Both domain rows displayed Healthy during this session; custom-domain public address queries returned zero answers",
+  "invalid_domain": {
+    "input": "not a domain",
+    "result": "Domain not created: The operation could not be completed because of an unexpected internal error.",
+    "domain_rows_after": 2,
+    "corresponding_account_top_level_directory_exists": false
+  },
+  "ai": {
+    "new_readonly_prompts": 2,
+    "successful_responses": 0,
+    "response": "AI Assistant is currently unavailable. Please try again later.",
+    "hub_registration": "Connected; panel registered with the AI Agent Hub",
+    "root_cause": "Not isolated"
+  },
+  "bolt_agent": "Connected and valid configuration still shown after Test Connection completed",
+  "integrations": "Official Integrations page listed WHMCS, Blesta and Upmind; API-key pages were present; no tokens created or changed",
+  "cleanup": {
+    "probe_removed_from_webroot": true,
+    "probe_private_copy_preserved": true,
+    "backup_archives_retained_privately": true,
+    "original_homepage_sha256": "a0648c4b0a731770f3e2fc6d11feb7962c6d8432b34defce2048d6b0769495bb",
+    "passwords_changed": false,
+    "dns_or_firewall_changed": false,
+    "chinese_languages_restored": true
+  }
+}

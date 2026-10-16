@@ -1,0 +1,187 @@
+[
+  {
+    "file": "11-backup-policy-prerequisite.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1584,
+      1050
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 1
+  },
+  {
+    "file": "12-file-editor-utf8.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      220
+    ],
+    "changes": "Editor content crop and PNG conversion; no private identifiers in the inspected editor",
+    "mask_boxes": 0
+  },
+  {
+    "file": "13-filesystem-backup-created.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      1000
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 3
+  },
+  {
+    "file": "14-file-mutated-before-restore.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      220
+    ],
+    "changes": "Editor content crop and PNG conversion; no private identifiers in the inspected editor",
+    "mask_boxes": 0
+  },
+  {
+    "file": "15-backup-restore-confirmation.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      1000
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 3
+  },
+  {
+    "file": "16-file-restored-verified.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      220
+    ],
+    "changes": "Editor content crop and PNG conversion; no private identifiers in the inspected editor",
+    "mask_boxes": 0
+  },
+  {
+    "file": "17-dns-health-healthy.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 3
+  },
+  {
+    "file": "18-custom-domain-ssl-disabled.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 3
+  },
+  {
+    "file": "19-ssl-preflight-force-off.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      1000
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 5
+  },
+  {
+    "file": "20-ssl-failure-actionable-message.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 4
+  },
+  {
+    "file": "21-ai-two-readonly-prompts.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 6
+  },
+  {
+    "file": "22-automatic-before-restore-snapshot.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      1000
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 6,
+    "privacy_review": "2026-10-16: extended both filename masks by 8 pixels to remove residual trailing letter"
+  },
+  {
+    "file": "23-invalid-domain-generic-error.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 5
+  },
+  {
+    "file": "24-official-integrations.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1600,
+      1000
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 1
+  },
+  {
+    "file": "25-ai-hub-registered.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 2
+  },
+  {
+    "file": "26-bolt-agent-connection-tested.png",
+    "source": "Real browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque privacy masks and PNG conversion only; no UI redrawing",
+    "mask_boxes": 4
+  },
+  {
+    "file": "01-dashboard.png",
+    "source": "Earlier English browser capture on 2026-10-16, already privacy-masked",
+    "changes": "As documented in earlier capture provenance"
+  },
+  {
+    "file": "05-firewall.png",
+    "source": "Earlier English browser capture on 2026-10-16, already privacy-masked",
+    "changes": "As documented in earlier capture provenance"
+  },
+  {
+    "file": "07-version-install.png",
+    "source": "Earlier English browser capture on 2026-10-16, already privacy-masked",
+    "changes": "As documented in earlier capture provenance"
+  },
+  {
+    "file": "29-website-ssl-issued.png",
+    "source": "Real English-language browser capture, 2026-10-16",
+    "dimensions": [
+      1585,
+      991
+    ],
+    "changes": "Opaque masks over account name, temporary domain, custom domain and account avatar; no UI redrawing"
+  }
+]
