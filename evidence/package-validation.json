@@ -1,0 +1,12 @@
+{
+  "articles": [
+    "README.md",
+    "README.zh.md"
+  ],
+  "image_count": 22,
+  "real_screenshots": 20,
+  "derived_figures": 2,
+  "publication_followup_added": true,
+  "new_screenshot_privacy_masks_checked": true,
+  "old_controlled_test_records_preserved": true
+}

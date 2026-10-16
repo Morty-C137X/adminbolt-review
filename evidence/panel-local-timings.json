@@ -1,0 +1,102 @@
+{
+  "utc": "2026-10-16T13:21:19Z",
+  "scope": "Local server loopback requests, new curl connection per sample, no browser rendering or international network",
+  "cases": {
+    "panel-login-https": [
+      {
+        "status": 200,
+        "ttfb_ms": 370.896,
+        "total_ms": 371.109,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 416.632,
+        "total_ms": 416.822,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 377.782,
+        "total_ms": 377.997,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 389.18,
+        "total_ms": 389.348,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 417.824,
+        "total_ms": 418.326,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 348.77,
+        "total_ms": 348.931,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 339.392,
+        "total_ms": 339.593,
+        "tls_verify_result": 0
+      }
+    ],
+    "website-probe-http": [
+      {
+        "status": 200,
+        "ttfb_ms": 2.197,
+        "total_ms": 2.272,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 0.867,
+        "total_ms": 0.935,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 1.025,
+        "total_ms": 1.1,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 0.987,
+        "total_ms": 1.084,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 1.003,
+        "total_ms": 1.093,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 1.103,
+        "total_ms": 1.183,
+        "tls_verify_result": 0
+      },
+      {
+        "status": 200,
+        "ttfb_ms": 0.941,
+        "total_ms": 1.017,
+        "tls_verify_result": 0
+      }
+    ],
+    "unauthenticated-admin-dashboard": [
+      {
+        "status": 302,
+        "ttfb_ms": 315.335,
+        "total_ms": 315.464,
+        "tls_verify_result": 0
+      }
+    ]
+  }
+}
