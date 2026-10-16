@@ -1,0 +1,26 @@
+[
+  {
+    "resolver": "Google Public DNS over HTTPS",
+    "query_name": "[custom website domain]",
+    "type": "A",
+    "http_status": 200,
+    "dns_status": 0,
+    "answer_count": 0,
+    "answer_types": [],
+    "authority_types": [
+      6
+    ]
+  },
+  {
+    "resolver": "Google Public DNS over HTTPS",
+    "query_name": "[custom website domain]",
+    "type": "AAAA",
+    "http_status": 200,
+    "dns_status": 0,
+    "answer_count": 0,
+    "answer_types": [],
+    "authority_types": [
+      6
+    ]
+  }
+]
