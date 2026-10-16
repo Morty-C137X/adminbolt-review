@@ -1,0 +1,8 @@
+{
+  "probe_moved_out_of_webroot": true,
+  "private_copy_preserved": true,
+  "probe_http_status_after_cleanup": 404,
+  "original_homepage_sha256": "a0648c4b0a731770f3e2fc6d11feb7962c6d8432b34defce2048d6b0769495bb",
+  "original_user_ini_sha256": "0e87ad0f72a57f9f9ee8ff41b94834cff4a2d774849aec15351b184233d0c2e9",
+  "invalid_domain_directory_exists": false
+}
