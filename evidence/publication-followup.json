@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-16",
+  "publication": "Bilingual static site on the same VPS; pages generated locally, uploaded by SSH, existing domain and SSL managed in AdminBolt",
+  "dns": "Root and www public A records configured for the current VPS address",
+  "first_followup_issue": "Rejected because panel default address was stale",
+  "correction": "Registered current address via administrator Network IPs; made it default; retained old record",
+  "second_followup_issue": "Normal issuance succeeded with Force issue off",
+  "certificate": {
+    "provider": "ZeroSSL",
+    "expiration_from_panel": "2027-01-14",
+    "auto_renew_enabled_in_panel": true,
+    "renewal_observed": false
+  },
+  "independent_https_before_redirect": {
+    "root": {
+      "certificate_verified": true,
+      "http_status": 200
+    },
+    "www": {
+      "certificate_verified": true,
+      "http_status": 200
+    }
+  },
+  "management_panel_unchanged": {
+    "login_https_status": 200,
+    "passwords_changed": false,
+    "firewall_weakened": false
+  }
+}
