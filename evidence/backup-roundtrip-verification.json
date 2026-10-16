@@ -1,0 +1,51 @@
+{
+  "restore_exactly_matches_v1": true,
+  "original_site_files_unchanged": true,
+  "downloaded_archives": [
+    {
+      "archive": "manual-backup",
+      "archive_bytes": 4553,
+      "members": [
+        {
+          "filename": "adminbolt-review-probe-20261016.txt",
+          "bytes": 129,
+          "sha256": "7a2a7543bbf3001dd2507b9ce64d6fe5115fe94324448b375a3f9638d6958e02"
+        },
+        {
+          "filename": "index.php",
+          "bytes": 9681,
+          "sha256": "a0648c4b0a731770f3e2fc6d11feb7962c6d8432b34defce2048d6b0769495bb"
+        },
+        {
+          "filename": ".user.ini",
+          "bytes": 262,
+          "sha256": "0e87ad0f72a57f9f9ee8ff41b94834cff4a2d774849aec15351b184233d0c2e9"
+        }
+      ],
+      "matches_expected_revision": true
+    },
+    {
+      "archive": "automatic-before-restore",
+      "archive_bytes": 4508,
+      "members": [
+        {
+          "filename": "adminbolt-review-probe-20261016.txt",
+          "bytes": 115,
+          "sha256": "7a6b73d0501928d5a7f1507d3109e782ee68f822da32beced9adcf28ce76a6a9"
+        },
+        {
+          "filename": "index.php",
+          "bytes": 9681,
+          "sha256": "a0648c4b0a731770f3e2fc6d11feb7962c6d8432b34defce2048d6b0769495bb"
+        },
+        {
+          "filename": ".user.ini",
+          "bytes": 262,
+          "sha256": "0e87ad0f72a57f9f9ee8ff41b94834cff4a2d774849aec15351b184233d0c2e9"
+        }
+      ],
+      "matches_expected_revision": true
+    }
+  ],
+  "scope": "Website root files only; no database or full-account recovery tested."
+}

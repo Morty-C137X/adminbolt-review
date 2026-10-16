@@ -1,0 +1,26 @@
+{
+  "stage": "before-restore-v1",
+  "utc": "2026-10-16T13:17:42Z",
+  "files": {
+    "index.php": {
+      "bytes": 9681,
+      "sha256": "a0648c4b0a731770f3e2fc6d11feb7962c6d8432b34defce2048d6b0769495bb"
+    },
+    ".user.ini": {
+      "bytes": 262,
+      "sha256": "0e87ad0f72a57f9f9ee8ff41b94834cff4a2d774849aec15351b184233d0c2e9"
+    },
+    "adminbolt-review-probe-20261016.txt": {
+      "bytes": 129,
+      "sha256": "7a2a7543bbf3001dd2507b9ce64d6fe5115fe94324448b375a3f9638d6958e02",
+      "text": "AdminBolt controlled review probe\nrevision=1\nUTF-8 check: 你好，Grok G。\nPurpose: verify edit, backup, download and recovery."
+    }
+  },
+  "custom_domain_dns_error": "[Errno -2] Name or service not known",
+  "local_vhost_http": {
+    "exit": 0,
+    "response": "AdminBolt controlled review probe\nrevision=1\nUTF-8 check: 你好，Grok G。\nPurpose: verify edit, backup, download and recovery.\nHTTP_STATUS=200",
+    "stderr": ""
+  },
+  "memory": "               total        used        free      shared  buff/cache   available\nMem:            3911        1347        1630         142        1358        2563\nSwap:           2048          58        1990\n"
+}
